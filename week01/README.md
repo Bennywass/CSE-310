@@ -10,7 +10,7 @@ To practice buidling an understandable and easy to read README file.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/rhcbVKxL6q0)
 
 # Development Environment
 
@@ -23,5 +23,5 @@ Python
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [BYU-Idaho](https://byui-cse.github.io/cse310-course/lesson01/01-prove_campus.html)
+* [GitHub](https://github.com/)

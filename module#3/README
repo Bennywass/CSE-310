@@ -1,0 +1,23 @@
+# Overview
+
+This is a Sodoku game using Pygame.
+
+The purpose of writing this software was to increase knowldge of how Pygame works.
+
+
+[Software Demo Video](https://youtu.be/GnVf94mynzc)
+
+# Development Environment
+
+Tools used to build program was VSCode
+
+I wrote this in Python, using the Pygame Library.
+
+# Useful Websites
+
+* [geeksforgeeks.com](https://www.geeksforgeeks.org/pygame-tutorial/)
+
+# Future Work
+
+* Number inputs don't stay where they are placed.
+* I would like to add a way where the user can only guess so many times
